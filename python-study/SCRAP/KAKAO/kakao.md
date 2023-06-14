@@ -1,0 +1,1 @@
+https://kauth.kakao.com/oauth/authorize?client_id=952c98aeea3ffd1ad58996cb781806f9&redirect_uri=http://localhost&response_type=code
